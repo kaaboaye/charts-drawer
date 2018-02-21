@@ -1,0 +1,8 @@
+div#Settings input[type=number] {
+  width: 4em;
+}
+
+div#Settings input[type=number]#Scale {
+  margin-left: 0.25em;
+  margin-right: 0.25em;
+}

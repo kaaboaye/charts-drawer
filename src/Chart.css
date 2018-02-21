@@ -1,0 +1,10 @@
+div#Chart input#f {
+  width: 40em;
+  padding: 0.5em;
+}
+
+div#Chart canvas {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}

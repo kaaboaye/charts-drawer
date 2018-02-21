@@ -1,0 +1,35 @@
+header.Main {
+  background-color: #ecf0f1;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+}
+
+header.Main div {
+  display: inline-block;
+}
+
+header.Main div.Info {
+  padding: 1em;
+}
+
+header.Main div.Route {
+  float: right;
+}
+
+header.Main div.Route a {
+  display: inline-block;
+  font-size: 2em;
+  padding: 0.2em;
+  padding-right: 0.35em;
+  margin-bottom: 0.1em;
+  border-bottom-style: solid;
+  border-bottom-color: transparent;
+  border-bottom-width: 0.05em;
+  color: #34495e;
+  text-decoration: none;
+}
+
+header.Main div.Route a:hover {
+  border-bottom-color: #34495e;
+}
