@@ -38,7 +38,7 @@ class Settings extends Component {
         <div id="Scale">
           <h2>Scale</h2>
           <p>
-            <span>1 unit an equivalent of</span>
+            <span>1 unit is an equivalent of</span>
             <input id="Scale" type="number" value={this.state.scale} onChange={this.scaleChange}/>
             <span>pixels.</span>
           </p>
