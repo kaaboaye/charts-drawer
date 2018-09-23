@@ -7,7 +7,7 @@ class HeaderBar extends Component {
   render() {
     return (
     <header className="Main">
-      <div className="Info">This yours app is using localStorage.</div>
+      <div className="Info">This app is using yours localStorage.</div>
 
       <div className="Route">
         <Link to="/chart">Chart</Link>
